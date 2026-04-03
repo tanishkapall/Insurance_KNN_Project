@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical_Insurance_Charges_Prediction_Using_KNN_Model
 
 1) Problem Statement: 
@@ -20,3 +21,6 @@ Evaluated model performance using metrics like R2_Score & Adjusted R2 Score on b
 
 
 #### added new line
+=======
+# Insurance_KNN_Project
+>>>>>>> 024060f40653b84987c04e6c4e2088725e6695cc
